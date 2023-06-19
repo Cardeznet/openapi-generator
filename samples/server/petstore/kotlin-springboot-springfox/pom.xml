@@ -6,7 +6,7 @@
     <name>openapi-spring</name>
     <version>1.0.0</version>
     <properties>
-        <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
+        <springfox-swagger2.version>2.10.0</springfox-swagger2.version>
         <swagger-ui.version>4.10.3</swagger-ui.version>
         <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
         <jakarta-annotation.version>2.1.0</jakarta-annotation.version>
