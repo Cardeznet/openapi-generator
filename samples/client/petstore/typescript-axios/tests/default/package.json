@@ -2,7 +2,7 @@
   "private": true,
   "dependencies": {
     "@openapitools/typescript-axios-petstore": "file:../../builds/with-npm-version",
-    "chai": "^4.2.0",
+    "chai": "^4.3.10",
     "ts-node": "^9.1.1"
   },
   "scripts": {
