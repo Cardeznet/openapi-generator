@@ -10,7 +10,7 @@
   "dependencies": {
     "@esm-bundle/chai": "^4.3.4-fix.0",
     "@web/test-runner": "^0.13.26",
-    "@web/test-runner-puppeteer": "^0.10.5",
+    "@web/test-runner-puppeteer": "^0.17.0",
     "ts-petstore-client": "file:../../builds/browser"
   },
   "devDependencies": {
