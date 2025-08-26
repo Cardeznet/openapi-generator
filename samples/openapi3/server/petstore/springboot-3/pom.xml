@@ -10,7 +10,7 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <springdoc.version>2.0.0-M3</springdoc.version>
+        <springdoc.version>2.8.10</springdoc.version>
         <swagger-ui.version>4.8.1</swagger-ui.version>
     </properties>
     <parent>
@@ -75,7 +75,7 @@
         <dependency>
             <groupId>org.openapitools</groupId>
             <artifactId>jackson-databind-nullable</artifactId>
-            <version>0.2.2</version>
+            <version>0.2.7</version>
         </dependency>
         <!-- Bean Validation API support -->
         <dependency>
